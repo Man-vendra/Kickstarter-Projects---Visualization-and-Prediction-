@@ -11,7 +11,7 @@ People who back Kickstarter projects are offered tangible rewards or experiences
 
 Visualization of Kickstarter Dataset using Pandas, Seaborn and Matplotlib libraries available in python.
 This visualization helps us in understanding the different features, gives us a deep insight into the dataset and helps in predicting the final result of a Kickstarter project.
-We have used sklearn for this purpose.
+We have used Sklearn for this purpose.
 
 # Link </br>
 [1] - https://www.kaggle.com/kemical/kickstarter-projects <br>
